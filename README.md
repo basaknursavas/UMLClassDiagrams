@@ -24,5 +24,11 @@ Online Movie System
 <img width="953" alt="Ekran Resmi 2023-06-26 00 33 47" src="https://github.com/basaknursavas/UMLClassDiagrams/assets/89778160/5d747fab-d87d-4f19-a4d9-9679b976aad9">
 
 
+Elevator Simulation 
+
+
+<img width="840" alt="Ekran Resmi 2023-06-26 01 32 32" src="https://github.com/basaknursavas/UMLClassDiagrams/assets/89778160/d8033c4b-b6b2-45c8-872e-7d01e1f676ce">
+
+
 
 
