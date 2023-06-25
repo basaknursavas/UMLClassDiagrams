@@ -10,4 +10,10 @@ University Management
 Zoo 
 
 
-<img width="768" alt="Ekran Resmi 2023-06-25 23 31 04" src="https://github.com/basaknursavas/UMLClassDiagrams/assets/89778160/ef68b1cc-eb7b-44a0-bea9-12257071f199">
+<img width="768" alt="Ekran Resmi 2023-06-25 23 31 04" src="https://github.com/basaknursavas/UMLClassDiagrams/assets/89778160/ef68b1cc-eb7b-44a0-bea9-12257071f199"> 
+
+
+Flight Management System 
+
+
+<img width="844" alt="Ekran Resmi 2023-06-26 00 15 52" src="https://github.com/basaknursavas/UMLClassDiagrams/assets/89778160/5060837e-69de-44ed-a12c-ad4a4a9ec66c">
